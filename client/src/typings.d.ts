@@ -1,0 +1,7 @@
+declare var module: NodeModule;
+declare var jQuery:any;
+declare var $:any;
+interface NodeModule {
+	id: string;
+}
+declare var mQuery:any;
