@@ -1,0 +1,13 @@
+.navigation {
+    padding: 0px !important;
+}
+
+.navigation .navbar {
+    border-radius: 0px !important;
+    background: #e53c37 !important;
+    border: none;
+}
+
+.navigation .navbar * {
+    color: white !important;
+}
